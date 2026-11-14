@@ -1,0 +1,10 @@
+PyQt5
+mss
+numpy
+opencv-python-headless
+rapidocr
+ctranslate2
+transformers
+huggingface-hub
+onnxruntime-gpu
+faster-whisper

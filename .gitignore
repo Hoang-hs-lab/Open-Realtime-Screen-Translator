@@ -1,0 +1,29 @@
+# Model weights & binaries
+models/
+bin/
+*.bin
+*.onnx
+*.pt
+*.safetensors
+*.zip
+
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & editor files
+.vscode/
+.idea/
+
+# Logs & env
+*.log
+.env
+
+# Root-level screenshots/images (keep assets/)
+/*.png
+/*.jpg
